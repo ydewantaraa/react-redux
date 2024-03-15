@@ -1,9 +1,9 @@
-import Form from "./Materi/Form";
+import Redux from "./Materi/Redux";
 
 function App() {
   return (
     <div className="App">
-      <Form />
+      <Redux />
     </div>
   );
 }
